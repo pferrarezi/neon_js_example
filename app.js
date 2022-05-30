@@ -1,4 +1,4 @@
-const lol = require('./foo.node')
+const lol = require('./index.node')
 
 function fibonacci(num) {
     var a = 1,
